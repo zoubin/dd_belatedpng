@@ -1,6 +1,6 @@
 {
   "name": "dd_belatedpng",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "pngfix for ie6",
   "devDependencies": {
     "gulp": "^3.8.11",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "ssh://git@github.com:zoubin/dd_belatedpng.git"
+    "url": "https://github.com/zoubin/dd_belatedpng.git"
   },
   "keywords": [
     "pngfix",
