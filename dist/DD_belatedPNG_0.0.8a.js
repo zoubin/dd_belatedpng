@@ -289,3 +289,7 @@ try {
 } catch(r) {}
 DD_belatedPNG.createVmlNameSpace();
 DD_belatedPNG.createVmlStyleSheet();
+
+// fire up this fix
+DD_belatedPNG.fix('.pngfix');
+
