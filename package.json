@@ -1,6 +1,6 @@
 {
   "name": "dd_belatedpng",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "pngfix for ie6",
   "main": "dist/DD_belatedPNG_0.0.8a.js",
   "devDependencies": {
